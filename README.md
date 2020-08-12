@@ -1,2 +1,0 @@
-# Calculadora
-Grupo 1
