@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication3;
+package calculadoragrupo1;
 
 /**
  *
  * @author Fabian
  */
-public class JavaApplication3 {
+public class CalculadoraGrupo1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        int nuevaVariable=0;
-        int segundaVariable=2;
+        // TODO code application logic here
     }
     
 }
